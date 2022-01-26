@@ -5,7 +5,7 @@
 ## :monocle_face: How to reach me: 
 - gabriel.lucasgermano@gmail.com
 
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40" height="40" />
 
 ## Stats
 [![Germano's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielgermanoo&show_icons=true&theme=radical)](https://github.com/gabrielgermanoo/github-readme-stats)
