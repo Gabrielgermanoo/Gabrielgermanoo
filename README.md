@@ -1,5 +1,5 @@
 ## Hi, I'm Gabriel 👋 
-- :writing_hand:	I'm a computer engineer at Ufal (Universidade Federal de Alagoas) <img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="100" height="60" />
+- :writing_hand:	I'm a computer engineer at Ufal (Universidade Federal de Alagoas) <img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="80" height="60"/>
 
 ## :monocle_face: How to reach me: 
 - gabriel.lucasgermano@gmail.com
