@@ -5,4 +5,5 @@
 ## :monocle_face: How to reach me: 
 - gabriel.lucasgermano@gmail.com
 
-[![Germano's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielgermanoo)](https://github.com/gabrielgermanoo/github-readme-stats&show_icons=true&theme=radical)
+## Stats
+[![Germano's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielgermanoo&show_icons=true&theme=radical)](https://github.com/gabrielgermanoo/github-readme-stats)
