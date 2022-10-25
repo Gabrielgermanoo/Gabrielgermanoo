@@ -1,6 +1,6 @@
 ## Hi, I'm Gabriel 👋 
 - :writing_hand:	I'm a computer engineer at Ufal (Universidade Federal de Alagoas) and IT technician at IFAL;
-- Fullstack developer in Fundepes;
+- Fullstack developer;
 - I love animals and sports
 ## :monocle_face: How to reach me: 
 
