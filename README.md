@@ -1,7 +1,7 @@
 ## Hi, I'm Gabriel 👋 
 - :writing_hand:	I'm a computer engineer at Ufal (Universidade Federal de Alagoas) and IT technician at IFAL;
-- Fullstack developer;
-- I love animals and sports
+- Firmware developer at Centro de Inovação EDGE;
+- I love studying hardware and developing IOT systems
 ## :monocle_face: How to reach me: 
 
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-germano-867aa51b6/) 
